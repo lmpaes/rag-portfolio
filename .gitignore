@@ -46,6 +46,11 @@ htmlcov/
 .idea/
 *.swp
 
+# Configuração local de ferramentas de IA (Claude Code) — não faz parte do projeto
+.agents/
+.claude/
+skills-lock.json
+
 # Sistema operacional
 .DS_Store
 Thumbs.db
