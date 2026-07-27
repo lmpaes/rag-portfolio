@@ -4,6 +4,11 @@ env/
 ENV/
 .venv/
 
+# Documentação interna de referência (não faz parte do repositório)
+HANDOFF.md
+RAG Portfolio - Specs do Projeto.md
+referencia-interna/
+
 # Variáveis de ambiente / segredos
 .env
 .env.*
